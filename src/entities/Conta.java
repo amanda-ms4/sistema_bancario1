@@ -68,13 +68,8 @@ public class Conta {
 		+ numero_conta
 		+ ", Titular: "
 		+ titular
-		+ ", Saldo:R$ "
+		+ ", Saldo Total:R$ "
 		+ String.format("%.2f", saldo);
 	
-		}
-	
-	
-	
-
-	
+		}	
 }
